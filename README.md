@@ -6,6 +6,6 @@
 
 对于安装了python的电脑：双击"常规任务辅助工具.exe"开始工作。
 
-如果没装或者懒得装，可以下载release中的"常规任务辅助工具.exe"作为代替。
+如果没装或者懒得装，可以下载release中的"daily_work_support.exe"作为代替。
 
 添加链接方法：在links.txt中新开一行，网站名和链接地址用空格隔开，网址必须以http或https开头
