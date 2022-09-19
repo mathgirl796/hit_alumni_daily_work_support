@@ -4,7 +4,7 @@
 
 把"main.py"和"links.txt"放在一个文件夹下即可。
 
-对于安装了python的电脑：双击"常规任务辅助工具.exe"开始工作。
+对于安装了python的电脑：双击"main.py"开始工作。
 
 如果没装或者懒得装，可以下载release中的"daily_work_support.exe"作为代替。
 
