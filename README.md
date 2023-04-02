@@ -1,11 +1,9 @@
 # hit_alumni_daily_work_support
 
-功能：不断地用浏览器打开links.txt里一个又一个的链接，免去了复制粘贴网址的麻烦。
+功能1：打开网址|快捷键：Ctrl+Enter
 
-把"main.py"和"links.txt"放在一个文件夹下即可。
+把输入的所有东西视作一个长字符串，用空格、逗号、分号、tab、换行、竖线分割成字串，把所有以http开头的子串当作网址在默认浏览器中打开
 
-对于安装了python的电脑：双击"main.py"开始工作。
+功能2：搜索|快捷键：Ctrl+Shift+Enter
 
-如果没装或者懒得装，可以下载release中的"daily_work_support.exe"作为代替。
-
-添加链接方法：在links.txt中新开一行，网站名和链接地址用空格隔开，网址必须以http或https开头
+把输入的东西每一行作为query丢到默认浏览器中搜索
